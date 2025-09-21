@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maria Thagichu (aka MariaThagz)
+# 👋 Hi, I’m Maria Thagichu 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MariaThagz&color=blueviolet)](https://github.com/MariaThagz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Thagichu-blue?logo=linkedin)](https://www.linkedin.com/in/maria-thagichu-353617144/)
