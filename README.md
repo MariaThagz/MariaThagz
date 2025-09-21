@@ -39,7 +39,8 @@ I’m a versatile **IT professional** with expertise in:
 
 ## 📈 GitHub Stats
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&custom_title=2025%20GitHub%20Stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaThagz&layout=compact&theme=radical)
 
 ---
