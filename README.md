@@ -152,16 +152,16 @@ Financial services platform with M-Pesa payment integration, transaction trackin
 <br/>
 
 <a href="https://github.com/MariaThagz">
-<img src="https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=833ab4&icon_color=fd1d1d&text_color=c9d1d9&ring_color=833ab4" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=833ab4&icon_color=fd1d1d&text_color=c9d1d9&ring_color=833ab4&cache_seconds=86400" height="180" />
 </a>
 <a href="https://github.com/MariaThagz">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaThagz&layout=compact&hide_border=true&bg_color=0d1117&title_color=833ab4&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaThagz&layout=compact&hide_border=true&bg_color=0d1117&title_color=833ab4&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="180" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/MariaThagz">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaThagz&hide_border=true&background=0d1117&ring=833ab4&fire=fd1d1d&currStreakLabel=f77737&sideLabels=c9d1d9&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%" />
+<img src="https://streak-stats.demolab.com?user=MariaThagz&hide_border=true&background=0d1117&ring=833ab4&fire=fd1d1d&currStreakLabel=f77737&sideLabels=c9d1d9&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9" width="55%" />
 </a>
 
 <br/>
