@@ -6,8 +6,6 @@
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dfglabs.vercel.app-833ab4?style=for-the-badge&logoColor=white)](https://dfglabs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Thagichu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-thagichu-353617144/)
-[![Email](https://img.shields.io/badge/Email-mariadevt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariadevt@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+254_112_748_635-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254112748635)
 
 </div>
 
@@ -94,8 +92,6 @@ I take on **full builds, redesigns, dashboards, e-commerce, business sites, and 
 | | |
 |---|---|
 | 🌐 **Portfolio** | [dfglabs.vercel.app](https://dfglabs.vercel.app) |
-| ✉️ **Email** | [mariadevt@gmail.com](mailto:mariadevt@gmail.com) |
-| 💬 **WhatsApp** | [+254 112 748 635](https://wa.me/254112748635) |
 | 💼 **LinkedIn** | [Maria Thagichu](https://www.linkedin.com/in/maria-thagichu-353617144/) |
 
 </div>
@@ -106,6 +102,6 @@ I take on **full builds, redesigns, dashboards, e-commerce, business sites, and 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer" width="100%" />
 
-*Building production systems that businesses actually use — from Nairobi to Sydney.*
+*Building production systems that businesses actually use — from Africa to the World.*
 
 </div>
