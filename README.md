@@ -1,98 +1,188 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=220&section=header&text=DFG%20Labs&fontSize=80&fontAlignY=35&desc=Full-Stack%20Web%20Development%20·%20by%20Maria%20Thagichu&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=250&section=header&text=DFG%20Labs&fontSize=90&fontAlignY=32&desc=Full-Stack%20Development%20Studio%20·%20From%20Africa%20to%20the%20World&descAlignY=56&descSize=17&fontColor=fff&animation=fadeIn" width="100%" />
+
+<!-- Typing Animation -->
+<a href="https://dfglabs.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=833AB4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=I+build+production+apps+that+businesses+run+on+%F0%9F%9A%80;E-commerce+%C2%B7+POS+Systems+%C2%B7+Management+Platforms+%F0%9F%92%BB;6%2B+projects+live+across+3+continents+%F0%9F%8C%8D" />
+</a>
+
+<br/>
 
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dfglabs.vercel.app-833ab4?style=for-the-badge&logoColor=white)](https://dfglabs.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Thagichu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-thagichu-353617144/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-thagichu-353617144/)
+[![Profile Views](https://komarev.com/ghpvc/?username=MariaThagz&color=833ab4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MariaThagz)
 
+</div>
+
+<br/>
+
+<!-- About Section with Side Image -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaThagz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=833ab4&text_color=c9d1d9&langs_count=6" width="320" />
+
+## 🏗️ &nbsp;About DFG Labs
+
+> **One-person dev studio. Zero hand-offs. Full builds.**
+
+I'm **Maria Thagichu**, founder of **DFG Labs** — based in Nairobi, shipping production web apps to clients across **Kenya, Australia, and beyond**.
+
+I don't build demos. I build the systems that businesses open every morning and depend on to run. The school management platform tracking 500+ students. The POS system running a restaurant's daily sales. The e-commerce store processing real orders.
+
+**What I bring to every project:**
+
+- ⚡ &nbsp;Design → Frontend → Backend → Deployment (no hand-offs)
+- 🔐 &nbsp;Auth, payments, multi-user roles — production-grade
+- 📱 &nbsp;Responsive across every device
+- 🚀 &nbsp;Shipped and live, not sitting in staging
+
+<br clear="right"/>
+
+---
+
+## ⚙️ &nbsp;Tech Arsenal
+
+<div align="center">
+<br/>
+
+| Frontend | Backend | Tools & Deploy |
+|:---:|:---:|:---:|
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![M-Pesa](https://img.shields.io/badge/M--Pesa_API-4CAF50?style=for-the-badge&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+<br/>
 </div>
 
 ---
 
-## ⚡ About
+## 🚀 &nbsp;Live Production Projects
 
-I run **DFG Labs** — a one-person dev studio that builds production web apps for businesses across **Kenya, Australia, and beyond**.
+<div align="center">
+<br/>
 
-I don't do mockups that sit in Figma. I ship real systems that real businesses use every day — e-commerce stores processing orders, school management systems tracking 500+ students, POS platforms running entire restaurants.
+> *These aren't tutorials or side projects. They're running real businesses right now.*
 
-```
-📍 Nairobi, Kenya · Remote worldwide · GMT+3
-🟢 Currently open for new projects
-```
+<br/>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 &nbsp;[Foxsports Centre](https://foxsportscentre.com)
+**E-commerce · Nakuru & Kabarnet**
+
+Full online store for a sporting goods retailer. Product catalog powered by Sanity CMS, checkout flow, and mobile-first shopping experience.
+
+`Next.js` `TypeScript` `Sanity CMS` `Tailwind CSS`
+
+![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%">
+
+### 🏫 &nbsp;[Oldonyo Sabuk Prep](https://oldonyosabukprepsch.co.ke)
+**School Management · Ol Donyo Sabuk**
+
+Full admin system — student records, fee tracking, exam marks, staff management, expenses, bank transactions. Used daily.
+
+`PHP` `MySQL` `Tailwind CSS`
+
+![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🦏 &nbsp;[Roaming Rhino](https://roamingrhino.com.au)
+**Landscaping · Sydney, Australia**
+
+Business website for an Australian lawn care company. Service showcase, gallery, reviews, and quote request system.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%">
+
+### 🌾 &nbsp;[ThagichuFarm](https://thagichufarm.top)
+**Farm Management · Kenya**
+
+Livestock tracking, milk production, egg collection, equipment, expenses, income — complete farm operations dashboard.
+
+`PHP` `MySQL` `Tailwind CSS`
+
+![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ &nbsp;[Lily's Place](https://lilysplace.co.ke)
+**Hospitality · Ridgeways, Nairobi**
+
+Restaurant website + multi-department POS covering restaurant, bar, carwash, and admin. Sales, inventory, commissions, P&L reports.
+
+`PHP` `MySQL` `Tailwind CSS`
+
+![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%">
+
+### 💰 &nbsp;Shylock
+**Fintech · Private Client**
+
+Financial services platform with M-Pesa payment integration, transaction tracking, and automated reporting tools.
+
+`PHP` `MySQL` `M-Pesa API`
+
+![Status](https://img.shields.io/badge/●_PRIVATE-6b7280?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
+<br/>
 
-**Frontend** · what your users see
+<img src="https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=833ab4&icon_color=fd1d1d&text_color=c9d1d9&ring_color=833ab4" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaThagz&theme=radical&hide_border=true&background=0d1117&ring=833ab4&fire=fd1d1d&currStreakLabel=f77737&sideLabels=c9d1d9&dates=6b7280" width="49%" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaThagz&bg_color=0d1117&color=833ab4&line=fd1d1d&point=f77737&area=true&area_color=833ab4&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
 
-**Backend** · what powers it
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MariaThagz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![M-Pesa API](https://img.shields.io/badge/M--Pesa_API-4CAF50?style=flat-square&logoColor=white)
-![Sanity CMS](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-
-**Tools** · what keeps it together
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+<br/>
 </div>
 
 ---
 
-## 🚀 Production Projects
-
-> These aren't side projects. They're live systems serving real users.
-
-| Project | What it does | Stack | Status |
-|---------|-------------|-------|--------|
-| **[Foxsports Centre](https://foxsportscentre.com)** | E-commerce platform for a sporting goods retailer · Nakuru & Kabarnet | Next.js · TypeScript · Sanity CMS | 🟢 Live |
-| **[Oldonyo Sabuk Prep](https://oldonyosabukprepsch.co.ke)** | School management system — fees, exams, staff, expenses | PHP · MySQL · Tailwind | 🟢 Live |
-| **[Roaming Rhino](https://roamingrhino.com.au)** | Business website for a Sydney landscaping company | Next.js · TypeScript · Tailwind | 🟢 Live |
-| **[ThagichuFarm](https://thagichufarm.top)** | Farm management — livestock, milk tracking, financials | PHP · MySQL · Tailwind | 🟢 Live |
-| **[Lily's Place](https://lilysplace.co.ke)** | Restaurant, bar & carwash website + multi-dept POS system | PHP · MySQL · Tailwind | 🟢 Live |
-| **Shylock** | Fintech platform with M-Pesa integration & transaction tracking | PHP · MySQL · M-Pesa API | 🔒 Private |
-
----
-
-## 📊 GitHub Stats
+## 🤝 &nbsp;Let's Work Together
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MariaThagz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=833ab4&icon_color=fd1d1d&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaThagz&theme=radical&hide_border=true&background=0d1117&ring=833ab4&fire=fd1d1d&currStreakLabel=f77737" width="48%" />
+I take on **full builds, redesigns, dashboards, e-commerce, business sites, and POS systems.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaThagz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=833ab4&text_color=c9d1d9" width="40%" />
+Everything you need to know is on my portfolio:
 
-</div>
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/View_My_Work-dfglabs.vercel.app-833ab4?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==)](https://dfglabs.vercel.app)
 
-## 🤝 Let's Work Together
-
-I take on **full builds, redesigns, dashboards, e-commerce, business sites, and POS systems**.
-
-<div align="center">
-
-| | |
-|---|---|
-| 🌐 **Portfolio** | [dfglabs.vercel.app](https://dfglabs.vercel.app) |
-| 💼 **LinkedIn** | [Maria Thagichu](https://www.linkedin.com/in/maria-thagichu-353617144/) |
+<br/>
 
 </div>
 
@@ -102,6 +192,8 @@ I take on **full builds, redesigns, dashboards, e-commerce, business sites, and 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer" width="100%" />
 
-*Building production systems that businesses actually use — from Africa to the World.*
+**DFG Labs** · From Africa to the World 🌍
+
+*Building production systems that businesses actually use.*
 
 </div>
